@@ -1,5 +1,5 @@
 requests==2.31.0
 beautifulsoup4==4.12.3
 lxml==5.2.2
-apscheduler==3.10.4
+apscheduler==3.6.3
 python-telegram-bot==13.15
